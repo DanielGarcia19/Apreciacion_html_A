@@ -1,0 +1,23 @@
+# Apreciacion_html_A
+Este repositorio tiene como objetivo evaluar la creación de una pagina HTML con relación a la Patria.
+<html>
+<head>
+<title> Pattria </title>
+</head>
+<body badground="Verde.jpg" bgcolor="00FFFF">
+<font face="Comic Sans MS,arial,verdana"><H3><B><div style="text-align:light"> Comidas Típicas </FONT></H3></B></div>
+<br>
+<ul>
+<li><B><H2> Jireth Catuy </li></B></H2>
+
+<ul>
+<li> <B><U><H1><font face="Comic Sans MS,arial,verdana"> Guacho: Como ya adelantábamos, el arroz es el ingrediente principal de la gastronomía de Panamá, y una de sus expresiones culinarias es el guacho. Durante tu viaje, uno de los platos típicos que comer en Panamá es este platillo a base de arroz y frijoles verdes, cocinado en una espesa sopa de verduras, carne, yuca, ñame y cilantro.</li></B></U></H1></FONT>
+<br>
+<li> <B><U><H1><font face="Comic Sans MS,arial,verdana"> Tamales: Al igual que en otras regiones de Latinoamérica, en Panamá también se preparan los tamales. Para elaborar los tamales panameños se utiliza gallina o pollo, maíz, tomates, alcaparras, cebolla, cilantro, ajíes y hojas de plátano o Bijao.</li></B></U></H1></FONT>
+<br>
+<li> <B><U><H1><font face="Comic Sans MS,arial,verdana">  Saus Los: amantes de la carne de cerdo no pueden dejar de probar este plato típico de la gastronomía de Panamá. El saus, consiste en un plato de patas de cerdo en escabeche con salsa picante. Su origen proviene de la tradición afroantillana y puedes probarlo principalmente durante los festivales de Bocas de Toro y Portobelo.</li></B></U></H1></FONT>
+<br>
+<li> <B><U><H1><font face="Comic Sans MS,arial,verdana"> Patacones:Para preparar los patacones se utiliza plátano verde, el cual se aplana y fríe, dando lugar a una especie de tortitas de plátano fritas deliciosas. En otros países latinoamericanos se conocen como tostones, tajada o tachinos.</li></B></U></H1></FONT>
+</ul>
+</body>
+</html>
